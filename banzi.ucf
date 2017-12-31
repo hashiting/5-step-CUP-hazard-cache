@@ -1,0 +1,24 @@
+net "a_g[0]" LOC = "L14";
+net "a_g[1]" LOC = "N14";
+net "a_g[2]" LOC = "M14";
+net "a_g[3]" LOC = "U18";
+net "a_g[4]" LOC = "U17";
+net "a_g[5]" LOC = "T18";
+net "a_g[6]" LOC = "T17";
+
+net "en[3]" LOC = "P17";
+net "en[2]" LOC = "P18";
+net "en[1]" LOC = "N15";
+net "en[0]" LOC = "N16";
+
+net "clock1"LOC = "V10";
+net "clock"LOC = "C9";
+
+NET "flag[2]" LOC = "T5";
+NET "flag[1]" LOC = "V8";
+NET "flag[0]" LOC = "U8";
+
+NET "reset" LOC = "C4";
+
+NET "start" LOC = "N8";
+NET "enable" LOC = "M8";
